@@ -6,4 +6,4 @@ utiliza los distintos tipos de datos y estructuras básicas junto a una BBDD SQL
 
 
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+[![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png)
